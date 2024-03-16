@@ -11,5 +11,5 @@ Check-out time: 12:00 p.m.
 - pepci
 - coca
 - burger
-- pepci
+- pepci cola
 
